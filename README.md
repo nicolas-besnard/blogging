@@ -6,4 +6,8 @@ My brain dumps are in the [issues][1]. Some might not be completed: feel free to
 
 Sorry for potato english ¯\\_(ツ)_/¯
 
+## Running in development
+
+`gatsby develop`
+
 [1]: https://github.com/nicolas-besnard/blogging/issues
